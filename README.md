@@ -1,1 +1,2 @@
 # odin-recipes2023
+This is the first project I am completing as part of The Odin Project's Foundation course. This project is to practice all of the HTML knowledge that I have learned so far and use that knowledge to build a basic recipe website.
